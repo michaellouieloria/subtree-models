@@ -1,4 +1,5 @@
 class HighScore < ApplicationRecord
 
 
+
 end
